@@ -1,5 +1,5 @@
 // Parent Component
-import React, { useState } from 'react'
+import { useState } from 'react'
 // Child component - React Library Import of choice 
 import { Rating } from 'react-simple-star-rating'
 
@@ -36,6 +36,6 @@ function App() {
 
 export default App
 
-/*
+/*  
 Opted out of CSS-IN-JS for this tutorial to reduce time. 
 */

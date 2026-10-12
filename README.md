@@ -1,16 +1,33 @@
-# React + Vite
+# ☕ Coffee Bean Journal – Star Rating Tutorial
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A small React example project showing how to add clickable star rating with the **React Simple Star Rating** library.
 
-Currently, two official plugins are available:
+- **Name:** Aldo Rivera
+- **Program:** Web Development, Full Sail University
+- **Assignment:** Library Tutorial
+- **Tutorial video:** - **Tutorial video:** [Watch on Microsoft Stream](https://fullsailedu-my.sharepoint.com/:v:/g/personal/arrivera_student_fullsail_edu/IQCUTw1qexQOSLUQGjLfJubEAfQs9YrKRe0OSxuuPwaIFnE?e=eA6FJs&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
 
-## React Compiler
+## About the Library
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+| **Library** | React Simple Star Rating |
+| **Author** | [awran5](https://github.com/awran5) |
+| **npm** | https://www.npmjs.com/package/react-simple-star-rating |
+| **Docs / GitHub** | https://github.com/awran5/react-simple-star-rating |
 
-## Expanding the ESLint configuration
+React Simple Star Rating is a lightweight React component for adding star ratings to an app. It has zero dependencies, installs with one command, and is customized entirely through props.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+### Brainstorm
+
+What my Coffee Bean Journal needs:
+- A way to display each coffee entry (cards)
+- A quick way for users to score each coffee (ratings)
+- A way to save and load entries (data)
+
+I chose React Simple Star Rating because rating each coffee is a core feature of my application. A clickable star rating feature is more efficient and more familiar than typing out a score. The library's zero dependencies keep my project lightweight, which was one of my personal project requirements due to time constraints. 
+
+## Built With
+
+- [React](https://react.dev/)
+- [Vite](https://vite.dev/)
+- [React Simple Star Rating](https://github.com/awran5/react-simple-star-rating)
