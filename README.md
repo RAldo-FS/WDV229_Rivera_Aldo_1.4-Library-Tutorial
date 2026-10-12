@@ -5,7 +5,7 @@ A small React example project showing how to add clickable star rating with the 
 - **Name:** Aldo Rivera
 - **Program:** Web Development, Full Sail University
 - **Assignment:** Library Tutorial
-- **Tutorial video:** - **Tutorial video:** [Watch on Microsoft Stream](https://fullsailedu-my.sharepoint.com/:v:/g/personal/arrivera_student_fullsail_edu/IQCUTw1qexQOSLUQGjLfJubEAfQs9YrKRe0OSxuuPwaIFnE?e=eA6FJs&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+- **Tutorial video:** [Watch on Microsoft Stream](https://fullsailedu-my.sharepoint.com/:v:/g/personal/arrivera_student_fullsail_edu/IQCUTw1qexQOSLUQGjLfJubEAfQs9YrKRe0OSxuuPwaIFnE?e=eA6FJs&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 
 
 ## About the Library
